@@ -12,6 +12,8 @@ A simple command line RPG where you are pitted against a variety of monsters you
 * [Tests](#tests)
 * [Questions](#questions)
 
+![jest another RPG](https://user-images.githubusercontent.com/62676730/100021705-c0ec7b80-2d96-11eb-8084-531cee91d649.PNG)
+
 ## Installation
 
 Clone the repo. Install necessary node modules with 'npm install'. 
